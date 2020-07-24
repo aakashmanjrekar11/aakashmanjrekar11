@@ -1,6 +1,6 @@
-<h1 align= "center"><b>Welcome to The Matrix, comrade.<img alt="alien" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/alien-monster_1f47e.png" width="20" height="20"> </b></h1>
+<h1 align= "center"><b>Welcome to The Matrix, comrade <img alt="alien" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/alien-monster_1f47e.png" width="30" height="30"> </b></h1>
 
-<h3 align="center"><i><b>Hey, I'm Aakash Manjrekar 🖖</b></i></h3>
+<h2 align="center"><i><b>Hey, I'm Aakash Manjrekar 🖖</b></i></h2>
 
 <p align="center">
 I'm an aspiring software developer & IT engineer undergrad from <a href="https://vit.edu.in/">Vidyalankar Institute of Technology India</a>. I'm an avid programmer, with inclination towards mobile app development, UI-UX design & game dev.
@@ -9,7 +9,7 @@ I'm an aspiring software developer & IT engineer undergrad from <a href="https:/
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="500" height="500">
+<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="350" height="350">
 
 **💼 Currently working as:**
 
