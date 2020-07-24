@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align= "center"><b>Hello World! <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"></b></h1>
+<h1 align= "center"><b>Hello World!</b></h1>
 
 
 <p align="center">
@@ -52,7 +52,7 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
 
-<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" />
+<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="200" height="200">
 <!--
 **aakashmanjrekar11/aakashmanjrekar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
