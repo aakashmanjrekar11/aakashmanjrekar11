@@ -16,12 +16,13 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 
 **💼 Currently working as:**
 
-Hybrid Mobile App Developer intern at <a href="https://spicetech.in/" target="_blank"><b>SpiceTech India</b></a>
+ - Hybrid Mobile App Developer intern at <a href="https://spicetech.in/" target="_blank"><b>SpiceTech India</b></a>
 
+<br>
 **🌱 Currently working on:**
 
-<code><a href="https://flutter.dev/" target="_blank"><img width="40" height="40" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img width="40" height="40" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/firebase/images/lockup.png"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img width="80" height="60" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img width="80" height="60" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/firebase/images/lockup.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 
 
@@ -51,13 +52,13 @@ Hybrid Mobile App Developer intern at <a href="https://spicetech.in/" target="_b
 <br>
 <div align="center">
 
-**<img width="25" hright="25" alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
+**<img alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash Manjrekar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash Manjrekar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim) -->
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 [![Twitter Badge](https://img.shields.io/badge/-@sora_am_i?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i)](https://twitter.com/sora_am_i)
 [![Instagram Badge](https://img.shields.io/badge/-@am11_visuals?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/am11_visuals/)](https://www.instagram.com/am11_visuals/)
-[![Gmail Badge](https://img.shields.io/badge/-aakashmanjrekar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakashmanjrekar@gmail.com)](mailto:aakashmanjrekar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-aakashmanjrekar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakashmanjrekar@gmail.com)](mailto:aakashmanjrekar@gmail.com)
 [![GitHub Badge](https://img.shields.io/github/followers/aakashmanjrekar11?label=aakashmanjrekar11&style=social)](https://github.com/aakashmanjrekar11)
 
