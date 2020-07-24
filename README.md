@@ -15,7 +15,6 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 <br>
 <img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="350" height="350">
 
-<br>
 
 **💼 Currently working as:**
 
@@ -31,7 +30,7 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashmanjrekar11&&show_icons=true&theme=radical" alt="Aakash's Github Stats">
