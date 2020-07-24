@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" />
 <!--
 **aakashmanjrekar11/aakashmanjrekar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
