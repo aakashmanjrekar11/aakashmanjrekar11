@@ -21,8 +21,8 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 <br>
 **🌱 Currently working on:**
 
-<code><a href="https://flutter.dev/" target="_blank"><img width="80" height="60" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img width="80" height="60" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/firebase/images/lockup.png"></a></code>
+<code><a href="https://flutter.dev/" target="_blank"><img width="180" height="50" src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img width="180" height="50" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/firebase/images/lockup.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 
 
@@ -54,9 +54,10 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 
 **<img width="30" height="30" alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash Manjrekar?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
+[![Linkedin Badge](https://img.shields.io/badge/-aakash-manjrekar-b3015815a-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 [![Instagram Badge](https://img.shields.io/badge/-@am11_visuals?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/am11_visuals/)](https://www.instagram.com/am11_visuals/)
-[![Twitter Badge](https://img.shields.io/badge/-@sora_am_i?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i/)](https://twitter.com/sora_am_i)
+[![Twitter Badge](https://img.shields.io/badge/-@sora_am_i?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i)](https://twitter.com/sora_am_i)
 [![Gmail Badge](https://img.shields.io/badge/-aakashmanjrekar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakashmanjrekar@gmail.com)](mailto:aakashmanjrekar@gmail.com)
 [![GitHub Badge](https://img.shields.io/github/followers/aakashmanjrekar11?label=aakashmanjrekar11&style=social)](https://github.com/aakashmanjrekar11)
 
