@@ -53,15 +53,11 @@ Hybrid Mobile App Developer intern at <a href="https://spicetech.in/" target="_b
 
 **<img width="25" hright="25" alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
 
-[![Linkedin: Aakash Manjrekar](https://img.shields.io/badge/-aakash-manjrekar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
-<a href="https://www.instagram.com/am11_visuals/" target="_blank"><img src="https://img.shields.io/badge/@am11_visuals_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: Aakash Manjrekar](https://img.shields.io/twitter/follow/sora_am_i?style=social)](https://twitter.com/sora_am_i)
-[![GitHub: Aakash Manjrekar](https://img.shields.io/github/followers/aakashmanjrekar11?label=aakashmanjrekar11&style=social)](https://github.com/aakashmanjrekar11)
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
-[![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
- -->
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash Manjrekar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim) -->
+<!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
+[![Twitter Badge](https://img.shields.io/badge/-@sora_am_i?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i)](https://twitter.com/sora_am_i)
+[![Instagram Badge](https://img.shields.io/badge/-@am11_visuals?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/am11_visuals/)](https://www.instagram.com/am11_visuals/)
+[![Gmail Badge](https://img.shields.io/badge/-aakashmanjrekar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakashmanjrekar@gmail.com)](mailto:aakashmanjrekar@gmail.com)
+[![GitHub Badge](https://img.shields.io/github/followers/aakashmanjrekar11?label=aakashmanjrekar11&style=social)](https://github.com/aakashmanjrekar11)
+
