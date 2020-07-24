@@ -49,16 +49,36 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code> -->
 
+<br><br>
 
-<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashmanjrekar11&&show_icons=true&theme=radical" alt="Aakash's Github Stats">
+</p>  
+
+<br><br>
+
+
 <div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/aakash-manjrekar-b3015815a/" target="blank">
+  <img align="center" alt="Aakash's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/am11_visuals/" target="blank">
+  <img align="center" alt="Aakash's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/sora_am_i" target="blank">
+  <img align="center" alt="Aakash's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <!-- <a href="https://medium.com/@pramodrana2107" target="blank">
+  <img align="center" alt="Aakash's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a>  -->
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
+</p>
+<p align="center"><img alt="Aakash's Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faakashmanjrekar11%2Fhit-counter" /></p>
+<br/>
 
-**<img width="50" height="25" alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-aakash-manjrekar-b3015815a-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@am11_visuals-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/am11_visuals/)](https://www.instagram.com/am11_visuals/)
-[![Twitter Badge](https://img.shields.io/badge/-@sora_am_i-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i)](https://twitter.com/sora_am_i)
-[![Gmail Badge](https://img.shields.io/badge/-aakashmanjrekar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakashmanjrekar@gmail.com)](mailto:aakashmanjrekar@gmail.com)
-[![GitHub Badge](https://img.shields.io/github/followers/aakashmanjrekar11?label=aakashmanjrekar11&style=social)](https://github.com/aakashmanjrekar11)
 
