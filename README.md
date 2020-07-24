@@ -52,13 +52,11 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 <br>
 <div align="center">
 
-**<img alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
+**<img width="30" height="30" alt="handshake" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"/> Reach me at:**<br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash Manjrekar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
-<!-- [![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim) -->
-<!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
-[![Twitter Badge](https://img.shields.io/badge/-@sora_am_i?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i)](https://twitter.com/sora_am_i)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash Manjrekar?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)](https://www.linkedin.com/in/aakash-manjrekar-b3015815a/)
 [![Instagram Badge](https://img.shields.io/badge/-@am11_visuals?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/am11_visuals/)](https://www.instagram.com/am11_visuals/)
+[![Twitter Badge](https://img.shields.io/badge/-@sora_am_i?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sora_am_i/)](https://twitter.com/sora_am_i)
 [![Gmail Badge](https://img.shields.io/badge/-aakashmanjrekar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aakashmanjrekar@gmail.com)](mailto:aakashmanjrekar@gmail.com)
 [![GitHub Badge](https://img.shields.io/github/followers/aakashmanjrekar11?label=aakashmanjrekar11&style=social)](https://github.com/aakashmanjrekar11)
 
