@@ -3,10 +3,11 @@
 <h2 align="center"><i><b>Hey, I'm Aakash Manjrekar 🖖</b></i></h2>
 
 <p align="center">
-I'm an aspiring software developer & IT engineer undergrad from <a href="https://vit.edu.in/">Vidyalankar Institute of Technology India</a>. I'm an avid programmer, with inclination towards mobile app development, UI-UX design & game dev.
+I'm an aspiring software developer & IT engineer undergrad from <a href="https://vit.edu.in/">Vidyalankar Institute of Technology, India</a>. 
+I'm an avid programmer, with inclination towards mobile app development, UI-UX design & game dev.
 </p>
 <p align="center">
-Fascinated about infinite space. Occupy Mars! :rocket:
+Deeply fascinated by Music, History, Art & the Cosmos.  Occupy Mars! :rocket::fire:
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="350" height="350">
