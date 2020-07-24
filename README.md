@@ -1,15 +1,15 @@
-### Hi there 👋
+<h1 align= "center"><b>Welcome to The Matrix, comrade.<img alt="alien" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/alien-monster_1f47e.png"/> </b></h1>
 
-
-<h1 align= "center"><b>Hello World!</b></h1>
-
+### Hey, I'm Aakash Manjrekar 🖖
 
 <p align="center">
-I am a software engineer from India :india:. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I'm an aspiring software developer & IT engineer undergrad from <a href="https://vit.edu.in/">Vidyalankar Institute of Technology India</a>. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
+
+<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="500" height="500">
 
 **💼 Currently working as:**
 
@@ -52,7 +52,7 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
 
-<img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="200" height="200">
+
 <!--
 **aakashmanjrekar11/aakashmanjrekar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
