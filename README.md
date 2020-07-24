@@ -1,9 +1,9 @@
-<h1 align= "center"><b>Welcome to The Matrix, comrade.<img alt="alien" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/alien-monster_1f47e.png"/> </b></h1>
+<h1 align= "center"><b>Welcome to The Matrix, comrade.<img alt="alien" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/alien-monster_1f47e.png" width="20" height="20"> </b></h1>
 
-### Hey, I'm Aakash Manjrekar 🖖
+<h3 align="center"><i><b>Hey, I'm Aakash Manjrekar 🖖</b></i></h3>
 
 <p align="center">
-I'm an aspiring software developer & IT engineer undergrad from <a href="https://vit.edu.in/">Vidyalankar Institute of Technology India</a>. Linux enthusiast on the journey making life easier by creating utility tools. Recently I've started contributing to opensource projects.
+I'm an aspiring software developer & IT engineer undergrad from <a href="https://vit.edu.in/">Vidyalankar Institute of Technology India</a>. I'm an avid programmer, with inclination towards mobile app development, UI-UX design & game dev.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
