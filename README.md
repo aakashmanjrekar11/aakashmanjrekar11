@@ -16,10 +16,6 @@ Deeply intrigued by Music, History, Art & the Cosmos.     Occupy Mars! :rocket::
 <img align="right" alt="GIF" src="https://github.com/aakashmanjrekar11/aakashmanjrekar11/blob/master/aakash_waves_60fps.gif" width="350" height="350">
 
 
-**💼 Currently working as:**
-
- - Hybrid Mobile App Developer intern at <a href="https://spicetech.in/" target="_blank"><b>SpiceTech India</b></a>
-
 <br>
 
 **🌱 Currently working on:**
