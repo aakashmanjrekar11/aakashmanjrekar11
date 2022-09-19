@@ -23,7 +23,7 @@
 
 - 📫 Mail me at **aakashmr@udel.edu**
 
-- 📄 Know about my experiences [resume-link](resume-link)
+- 📄 Know about my experiences [resume-link](https://drive.google.com/file/d/1fiPIpNJDrYRHAxEuFwtdxLP7hw1TI1L-/view?usp=sharing)
 
 - 🧠 Fun fact - **Brain information travels up to an impressive 268 miles per hour.**
 
