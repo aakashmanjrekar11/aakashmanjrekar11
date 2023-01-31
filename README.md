@@ -5,14 +5,14 @@
 <p> 
   <img src="https://komarev.com/ghpvc/?username=aakashmanjrekar11&label=Profile%20views&color=972fff&style=flat" alt="aakashmanjrekar11" /> 
 </p>
-
+<hr>
 <br>
-<p> 🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), inspired by OpenAI's ChatGPT! </p> <br>
-<p> 📫 Mail me at [aakashmr@udel.edu](mailto:aakashmr@udel.edu) </p> <br>
+<p> 🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), inspired by OpenAI's ChatGPT! </p>
+<p> 📫 Mail me at [aakashmr@udel.edu](mailto:aakashmr@udel.edu) </p>
 <p> 📄 Here's my [**Resume**](https://drive.google.com/file/d/1izaEgcluaxjntgplK_rGGP6Wz259s6vY/view?usp=share_link) </p>
 
 
-<!--- Languages and Tools --->
+<!--- Languages, Frameworks and Developer Tools --->
 
 <br>
 <hr>
