@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Aakash Manjrekar 👋</h1>
-<h3 align="center">I'm a frontend developer from India 🇮🇳, currently pursuing MSCS Fall'22 at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h3>
+<h3 align="center">I'm a frontend developer from India 🇮🇳</h3> <br> 
+<h3 align="center">Currently pursuing MSCS at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aakashmanjrekar11&label=Profile%20views&color=972fff&style=flat" alt="aakashmanjrekar11" /> 
@@ -7,25 +8,11 @@
 
 <br>
 
-- 🔨 I’m currently working on [Keeper 📝](https://github.com/aakashmanjrekar11/keeper), a note-taking app developed with ReactJS, inspired by Google Keep!
-
-- 🌱 I’m currently learning **ReactJS, NextJS, Software Design Principles**
-
-- 🤝 I’m looking to collaborate on **any Open-Source Projects**
-
-- 🔎 I’m looking for help with **SDE Technical Interviews**
-
-- 🐱‍💻 All of my projects are available at [https://github.com/aakashmanjrekar11](https://github.com/aakashmanjrekar11)
-
-- 📝 I write articles on [https://medium.com/@aakashmanjrekar](https://medium.com/@aakashmanjrekar)
-
-- 💬 Ask me about **HTML, CSS, Javascript, Python**
+- 🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), , inspired by OpenAI's ChatGPT!
 
 - 📫 Mail me at **aakashmr@udel.edu**
 
-- 📄 Know about my experiences [***Resume***](https://drive.google.com/file/d/1fiPIpNJDrYRHAxEuFwtdxLP7hw1TI1L-/view?usp=sharing)
-
-- 🧠 Fun fact - **Brain information travels up to an impressive 268 miles per hour.**
+- 📄 Here's my [**Resume**](https://drive.google.com/file/d/1izaEgcluaxjntgplK_rGGP6Wz259s6vY/view?usp=share_link)
 
 
 <!--- Languages and Tools --->
@@ -52,18 +39,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="140" src="https://github-profile-trophy.vercel.app/?username=aakashmanjrekar11&theme=onedark&no-frame=true" alt="aakashmanjrekar11" />
-  </a> 
-</p>
-
-
-<!--- Github Streak --->
-
-<br>
-<hr>
-<h3>Github Streak 🔥</h3>
-<p align="center">
-  <img height="240" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmanjrekar11&theme=default" alt="aakashmanjrekar11" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmanjrekar11&theme=default" alt="aakashmanjrekar11" />
 </p>
 
 
@@ -89,7 +65,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/aakashmanjrekar11/"><img height="30" alt="Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &emsp;&emsp;<a href="mailto:aakashmr@udel.edu"><img height="30" alt="Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &emsp;&emsp;<a href="https://twitter.com/aakashmanjrekar"><img height="30" alt="Twitter" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &emsp;&emsp;<a href="https://twitter.com/aakashmanjrekar"><img height="30" alt="Twitter" target="_blank" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faakashmanjrekar"></a>
   &emsp;&emsp;<a href="https://github.com/aakashmanjrekar11"><img height="30" alt="Github" target="_blank" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;&emsp;<a href="https://t.me/Rogue1199"><img height="30" alt="Telegram" target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
