@@ -1,25 +1,24 @@
-<h1 align="center">Hi, I'm Aakash Manjrekar 👋</h1>
-<h3 align="center">I'm a frontend developer from India 🇮🇳</h3>
-<h3 align="center">Currently pursuing MSCS at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h3>
+<h3>Hey there, I'm Aakash Manjrekar 👋</h3>
+<h4>I'm a frontend developer from India 🇮🇳</h4>
+<h4>Currently pursuing MSCS at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aakashmanjrekar11&label=Profile%20views&color=972fff&style=flat" alt="aakashmanjrekar11" /> 
 </p>
 
 <br>
+🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), , inspired by OpenAI's ChatGPT!
 
-- 🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), , inspired by OpenAI's ChatGPT!
+📫 Mail me at **aakashmr@udel.edu**
 
-- 📫 Mail me at **aakashmr@udel.edu**
-
-- 📄 Here's my [**Resume**](https://drive.google.com/file/d/1izaEgcluaxjntgplK_rGGP6Wz259s6vY/view?usp=share_link)
+📄 Here's my [**Resume**](https://drive.google.com/file/d/1izaEgcluaxjntgplK_rGGP6Wz259s6vY/view?usp=share_link)
 
 
 <!--- Languages and Tools --->
 
 <br>
 <hr>
-<h3 align="left">Languages and Tools 🐱‍💻</h3>
+<h4 align="left">Languages and Tools 🐱‍💻</h4>
 <br>
 
 <p align="left"> 
@@ -27,46 +26,17 @@
 </p>
 
 
-<!--- Github Stats --->
-
-<br>
-<hr>
-<h3 align="left">Github Stats 📊</h3>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aakashmanjrekar11&show_icons=true&theme=vue&locale=en" alt="aakashmanjrekar11" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashmanjrekar11&show_icons=true&theme=vue&locale=en&layout=compact" alt="aakashmanjrekar11" />
-</p>
-
-<p align="center"> 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashmanjrekar11&theme=default" alt="aakashmanjrekar11" />
-</p>
-
-
-<!--- Support --->
-
-<br>
-<hr>
-<h3 align="left">Support Me ☕</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/aakashm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aakashm" /></a><a href="https://ko-fi.com/https://ko-fi.com/aakashm"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/aakashm" />
-  </a>
-</p>
-<br>
-<br>
-
-
 <!--- Connect With Me --->
 
 <br>
 <hr>
-<h3 align="left">Connect With Me 🤝</h3>
+<h4 align="left">Connect With Me 🤝</h4>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aakashmanjrekar11/"><img height="30" alt="Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  &emsp;&emsp;<a href="mailto:aakashmr@udel.edu"><img height="30" alt="Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  &emsp;&emsp;<a href="https://twitter.com/aakashmanjrekar"><img height="30" alt="Twitter" target="_blank" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faakashmanjrekar"></a>
-  &emsp;&emsp;<a href="https://github.com/aakashmanjrekar11"><img height="30" alt="Github" target="_blank" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;&emsp;<a href="https://t.me/Rogue1199"><img height="30" alt="Telegram" target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aakashmanjrekar11/"><img height="20" alt="Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &emsp;&emsp;<a href="mailto:aakashmr@udel.edu"><img height="20" alt="Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  &emsp;&emsp;<a href="https://twitter.com/aakashmanjrekar"><img height="20" alt="Twitter" target="_blank" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Faakashmanjrekar"></a>
+  &emsp;&emsp;<a href="https://github.com/aakashmanjrekar11"><img height="20" alt="Github" target="_blank" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;&emsp;<a href="https://t.me/Rogue1199"><img height="20" alt="Telegram" target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
