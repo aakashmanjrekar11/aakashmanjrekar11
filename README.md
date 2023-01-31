@@ -7,9 +7,9 @@
 </p>
 
 <br>
-🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), , inspired by OpenAI's ChatGPT! <br>
-📫 Mail me at **aakashmr@udel.edu** <br>
-📄 Here's my [**Resume**](https://drive.google.com/file/d/1izaEgcluaxjntgplK_rGGP6Wz259s6vY/view?usp=share_link)
+<p 🔨 I’m currently working on [ChatGPT Clone](https://github.com/aakashmanjrekar11/ChatGPT-Clone), , inspired by OpenAI's ChatGPT! /> <br>
+<p 📫 Mail me at [aakashmr@udel.edu](mailto:aakashmr@udel.edu) /> <br>
+<p 📄 Here's my [**Resume**](https://drive.google.com/file/d/1izaEgcluaxjntgplK_rGGP6Wz259s6vY/view?usp=share_link) />
 
 
 <!--- Languages and Tools --->
