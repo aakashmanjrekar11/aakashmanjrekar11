@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aakash Manjrekar 👋</h1>
-<h3 align="center">I'm a frontend developer from India 🇮🇳</h3> <br> 
+<h3 align="center">I'm a frontend developer from India 🇮🇳</h3>
 <h3 align="center">Currently pursuing MSCS at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h3>
 
 <p align="center"> 
