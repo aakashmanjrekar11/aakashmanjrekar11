@@ -2,7 +2,7 @@
 <h4>I'm a frontend developer from India 🇮🇳</h4>
 <h4>Currently pursuing MSCS at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h4>
 
-<p align="center"> 
+<p> 
   <img src="https://komarev.com/ghpvc/?username=aakashmanjrekar11&label=Profile%20views&color=972fff&style=flat" alt="aakashmanjrekar11" /> 
 </p>
 
