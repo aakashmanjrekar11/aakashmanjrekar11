@@ -1,6 +1,6 @@
 <h3>Hey there, I'm Aakash Manjrekar 👋</h3>
 <h4>I'm a frontend developer from India 🇮🇳</h4>
-<h4>Currently pursuing MSCS at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h4>
+<h4>Currently pursuing Masters in Computer Science at the <a href="https://www.udel.edu/">University of Delaware</a>, USA 🇺🇸!</h4>
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=aakashmanjrekar11&label=Profile%20views&color=972fff&style=flat" alt="aakashmanjrekar11" /> 
