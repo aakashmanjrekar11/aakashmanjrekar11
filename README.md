@@ -20,6 +20,11 @@
 </p>
 <br>
 
+
+<!-- Leetcode Stats -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/aakashmanjrekar11?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+
+
 <!--- Connect With Me --->
 
 <h4 align="left">Connect With Me 🤝</h4>
