@@ -17,8 +17,8 @@
 
 <!--- Connect With Me --->
 
-<h4 align="left">Connect With Me 🤝</h4>
 <hr>
+<h4 align="left">Connect With Me 🤝</h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/aakashmanjrekar11/"><img height="20" alt="Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &emsp;&emsp;<a href="mailto:aakashmr@udel.edu"><img height="20" alt="Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
