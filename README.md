@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=aakashmanjrekar11&label=Profile%20views&color=972fff&style=flat" alt="aakashmanjrekar11" /> 
 </p>
 <hr>
-<br>
-
 <!--- Languages, Frameworks and Developer Tools --->
 
 <h4 align="left">Languages and Tools 🐱‍💻</h4>
